@@ -1,0 +1,18 @@
+.nav-bar{
+    background-color: #fff;
+    box-shadow: -1px 2px 17px -7px #222;
+    margin-bottom: 100px;
+}
+.nav-links li{
+    list-style: none;
+}
+li a{
+    color: #222;
+}
+.back-box{
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 10px;
+    background: #ccc;
+    box-shadow: -1px 2px 17px -7px #222;
+}
